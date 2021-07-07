@@ -4,10 +4,10 @@
 
 ---
 ## Overview
-This report will outline how an individual can use the "UFO Finder" website to filter UFO data using HTML input boxes. Images and examples of how the site can be used are provided below in the Results section (**Note:** A variety of search parameters will return no results). Additional suggestions for a cleaner experience are provided in the Summary section.
+This report will outline how to use the "UFO Finder" website and provide suggestions for improvements. HTML filter boxes inserted into the page are interactive and can be used to sort the UFO information table on the Date, City, State, Country and Shape parameters. Images and examples of how the site can be used are provided below in the Results section (**Note:** A variety of search parameters will return no results). Additional suggestions for a cleaner experience are provided in the Summary section.
 
 ---
-## **<p align="center">Results</p>**
+## Results
 ---
 
 
